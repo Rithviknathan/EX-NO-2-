@@ -182,7 +182,8 @@ int main() {
 
 
 ## Output:
-![424804647-4a403306-01ae-4b7f-80b5-270e8a2e426b](https://github.com/user-attachments/assets/dfee09fe-91d9-451d-8c1a-f90d6e0bbc66)
+<img width="218" height="170" alt="image" src="https://github.com/user-attachments/assets/0a56671c-036b-4c96-b5b5-2ef37777d291" />
+
 
 ## RESULT:
 The program is executed successfully.
